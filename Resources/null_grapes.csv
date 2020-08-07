@@ -1,0 +1,396 @@
+,grape_variety
+0,airen
+1,albanello
+2,alicante
+3,alicante bouschet
+4,alsace white blend
+5,alvarelhão
+6,alvarinho-chardonnay
+7,antão vaz
+8,apple
+9,aragonês
+10,aragonez
+11,asprinio
+12,austrian red blend
+13,austrian white blend
+14,azal
+15,babosa negro
+16,baga-touriga nacional
+17,barbera-nebbiolo
+18,bastardo
+19,biancale
+20,black monukka
+21,black muscat
+22,blanc du bois
+23,blauer portugieser
+24,bobal-cabernet sauvignon
+25,bordeaux-style red blend
+26,bordeaux-style white blend
+27,bovale
+28,brachetto
+29,braucol
+30,códega do larinho
+31,cabernet
+32,cabernet blend
+33,cabernet franc-cabernet sauvignon
+34,cabernet franc-carmenère
+35,cabernet franc-lemberger
+36,cabernet franc-malbec
+37,cabernet franc-merlot
+38,cabernet merlot
+39,cabernet moravia
+40,cabernet sauvignon grenache
+41,cabernet sauvignon-barbera
+42,cabernet sauvignon-cabernet franc
+43,cabernet sauvignon-carmenère
+44,cabernet sauvignon-malbec
+45,cabernet sauvignon-merlot
+46,cabernet sauvignon-merlot-shiraz
+47,cabernet sauvignon-sangiovese
+48,cabernet sauvignon-shiraz
+49,cabernet sauvignon-syrah
+50,cabernet sauvignon-tempranillo
+51,cabernet-malbec
+52,cabernet-shiraz
+53,cabernet-syrah
+54,canaiolo
+55,carcajolu
+56,cariñena-garnacha
+57,carignan-grenache
+58,carignan-syrah
+59,carignane
+60,carignano
+61,carineña
+62,carmenère
+63,carmenère-cabernet sauvignon
+64,carmenère-syrah
+65,carricante
+66,cayuga
+67,cercial
+68,cesanese d'affile
+69,champagne blend
+70,chardonel
+71,chardonnay weissburgunder
+72,chardonnay-albariño
+73,chardonnay-pinot blanc
+74,chardonnay-pinot gris
+75,chardonnay-riesling
+76,chardonnay-sauvignon
+77,chardonnay-sauvignon blanc
+78,chardonnay-semillon
+79,chardonnay-viognier
+80,chenin blanc-chardonnay
+81,chenin blanc-sauvignon blanc
+82,chenin blanc-viognier
+83,chinuri
+84,cinsault
+85,claret
+86,colombard-sauvignon blanc
+87,colombard-ugni blanc
+88,"corvina, rondinella, molinara"
+89,dafni
+90,diamond
+91,edelzwicker
+92,ekigaïna
+93,emir
+94,fer servadou
+95,feteascǎ regalǎ
+96,feteasca
+97,feteasca neagra
+98,forcallà
+99,früburgunder
+100,francisa
+101,franconia
+102,frankovka
+103,fumé blanc
+104,g-s-m
+105,gamza
+106,garnacha blend
+107,garnacha tintorera
+108,garnacha-cabernet
+109,garnacha-cariñena
+110,garnacha-monastrell
+111,garnacha-syrah
+112,garnacha-tempranillo
+113,gelber muskateller
+114,gelber traminer
+115,gewürztraminer-riesling
+116,gragnano
+117,greco
+118,grenache blend
+119,grenache noir
+120,grenache-carignan
+121,grenache-mourvèdre
+122,grenache-shiraz
+123,grenache-syrah
+124,groppello
+125,gros and petit manseng
+126,hárslevelü
+127,insolia
+128,jacquez
+129,jaen
+130,kangoun
+131,karalahna
+132,karasakiz
+133,kekfrankos
+134,kinali yapincak
+135,kisi
+136,kuntra
+137,lambrusco di sorbara
+138,lambrusco grasparossa
+139,lambrusco salamino
+140,lemberger
+141,listán negro
+142,loin de l'oeil
+143,loureiro
+144,loureiro-arinto
+145,macabeo-chardonnay
+146,macabeo-moscatel
+147,madeira blend
+148,magliocco
+149,malagouzia
+150,malagouzia-chardonnay
+151,malbec blend
+152,malbec-bonarda
+153,malbec-cabernet
+154,malbec-cabernet franc
+155,malbec-cabernet sauvignon
+156,malbec-carménère
+157,malbec-merlot
+158,malbec-petit verdot
+159,malbec-syrah
+160,malbec-tannat
+161,malbec-tempranillo
+162,malvasia
+163,malvasia bianca
+164,malvasia di candia
+165,malvasia fina
+166,malvasia istriana
+167,malvasia-viura
+168,mandilaria
+169,mansois
+170,mantonico
+171,manzoni
+172,marawi
+173,maria gomes-bical
+174,marquette
+175,marsanne-roussanne
+176,marsanne-viognier
+177,maturana
+178,mavrokalavryta
+179,mavrotragano
+180,mazuelo
+181,melon
+182,meritage
+183,merlot-argaman
+184,merlot-cabernet
+185,merlot-cabernet franc
+186,merlot-cabernet sauvignon
+187,merlot-grenache
+188,merlot-malbec
+189,merlot-petite verdot
+190,merlot-shiraz
+191,merlot-syrah
+192,merlot-tannat
+193,merseguera-sauvignon blanc
+194,meseguera
+195,monastrell-petit verdot
+196,monastrell-syrah
+197,morava
+198,morillon
+199,morio muskat
+200,moscadello
+201,moscatel
+202,moscatel de alejandría
+203,moscatel graúdo
+204,moscatel roxo
+205,moscato di noto
+206,moscato rosa
+207,moschofilero-chardonnay
+208,mourvèdre-syrah
+209,muscadel
+210,muscadelle
+211,muscadine
+212,muscat blanc
+213,muscat canelli
+214,muscat d'alexandrie
+215,muscatel
+216,muskat
+217,muskat ottonel
+218,narince
+219,nascetta
+220,negrette
+221,nielluciu
+222,norton
+223,okuzgozu
+224,orange muscat
+225,orangetraube
+226,other
+227,país
+228,pallagrello
+229,pansa blanca
+230,papaskarasi
+231,paralleda
+232,parraleta
+233,petite verdot
+234,picapoll
+235,pinot auxerrois
+236,pinot blanc-chardonnay
+237,pinot blanc-pinot noir
+238,pinot blanc-viognier
+239,pinot grigio-sauvignon blanc
+240,pinot gris-gewürztraminer
+241,pinot noir-gamay
+242,pinot noir-syrah
+243,pinot-chardonnay
+244,pinotage-merlot
+245,plavac mali
+246,plyto
+247,port
+248,portuguese red
+249,portuguese rosé
+250,portuguese sparkling
+251,portuguese white
+252,portuguiser
+253,posip
+254,premsal
+255,provence red blend
+256,provence white blend
+257,prugnolo gentile
+258,prunelard
+259,pugnitello
+260,rara neagra
+261,rebo
+262,rebula
+263,red blend
+264,rhône-style red blend
+265,rhône-style white blend
+266,riesling-chardonnay
+267,roditis-moschofilero
+268,rosé
+269,rosado
+270,rosato
+271,roscetto
+272,rosenmuskateller
+273,roter traminer
+274,roussanne-grenache blanc
+275,roussanne-marsanne
+276,roussanne-viognier
+277,roviello
+278,ryzlink rýnský
+279,sämling
+280,sangiovese cabernet
+281,sangiovese grosso
+282,sangiovese-cabernet sauvignon
+283,sangiovese-syrah
+284,saperavi-merlot
+285,sauvignon
+286,sauvignon blanc-assyrtiko
+287,sauvignon blanc-chardonnay
+288,sauvignon blanc-chenin blanc
+289,sauvignon blanc-sauvignon gris
+290,sauvignon blanc-semillon
+291,sauvignon blanc-verdejo
+292,sauvignon musqué
+293,sauvignon-sémillon
+294,schwartzriesling
+295,sciaccerellu
+296,semillon-chardonnay
+297,semillon-sauvignon blanc
+298,seyval blanc
+299,sherry
+300,shiraz-cabernet
+301,shiraz-cabernet sauvignon
+302,shiraz-grenache
+303,shiraz-malbec
+304,shiraz-mourvèdre
+305,shiraz-roussanne
+306,shiraz-tempranillo
+307,shiraz-viognier
+308,silvaner-traminer
+309,siria
+310,sirica
+311,souzao
+312,sparkling blend
+313,st. vincent
+314,syrah-bonarda
+315,syrah-cabernet
+316,syrah-cabernet franc
+317,syrah-cabernet sauvignon
+318,syrah-carignan
+319,syrah-grenache
+320,syrah-grenache-viognier
+321,syrah-malbec
+322,syrah-merlot
+323,syrah-mourvèdre
+324,syrah-petit verdot
+325,syrah-petite sirah
+326,syrah-tempranillo
+327,syrah-viognier
+328,tamjanika
+329,tannat-cabernet
+330,tannat-cabernet franc
+331,tannat-merlot
+332,tannat-syrah
+333,tempranillo blend
+334,tempranillo-cabernet sauvignon
+335,tempranillo-garnacha
+336,tempranillo-malbec
+337,tempranillo-merlot
+338,tempranillo-shiraz
+339,tempranillo-syrah
+340,tempranillo-tannat
+341,tinta cao
+342,tinta de toro
+343,tinta del toro
+344,tinta fina
+345,tinta miúda
+346,tintilia 
+347,tinto del pais
+348,tinto fino
+349,tinto velasco
+350,tocai
+351,tokaji
+352,tokay
+353,tokay pinot gris
+354,touriga
+355,touriga nacional blend
+356,touriga nacional-cabernet sauvignon
+357,traminette
+358,trebbiano di lugana
+359,trebbiano spoletino
+360,trousseau
+361,turbiana
+362,ugni blanc-colombard
+363,valvin muscat
+364,variety
+365,veltliner
+366,verdejo-sauvignon blanc
+367,verdejo-viura
+368,verduzzo friulano 
+369,vespaiolo
+370,vidadillo
+371,vidal
+372,vidal blanc
+373,vignoles
+374,vinhão
+375,viognier-chardonnay
+376,viognier-gewürztraminer
+377,viognier-grenache blanc
+378,viognier-marsanne
+379,viognier-roussanne
+380,viognier-valdiguié
+381,vital
+382,viura-chardonnay
+383,viura-verdejo
+384,vranec
+385,white blend
+386,white port
+387,white riesling
+388,xarel-lo
+389,xinisteri
+390,yapincak
+391,zelen
+392,zibibbo
+393,zierfandler-rotgipfler
+394,zlahtina
